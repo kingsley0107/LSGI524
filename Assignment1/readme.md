@@ -1,4 +1,4 @@
-# Assignment1 from Junran Liang 23054061g
+# Assignment1
 
 ## Introduction
 
