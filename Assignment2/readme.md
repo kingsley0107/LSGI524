@@ -13,11 +13,11 @@ So the file tree in this .zip file is :
     ./
         code_23054061g_JunranLiang/
             assignment2.ipynb
-
+    
         reports_23054061g_JunranLiang/
             23054061g_JunranLiang.pdf
 
-## Technology
+## Method
 
 In this assignment, I analyse a large-scale dataset with more than 1GB, which is inavailable to read it all into memory at once using pandas.read.
 
