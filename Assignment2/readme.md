@@ -29,4 +29,4 @@ Reports are named as '23054061g_assignment2.pdf'
 
 ## Others
 
-All the python packages used are written in requirements.txt
+All the python packages used are written in requirements.txt.
